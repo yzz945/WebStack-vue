@@ -3,7 +3,7 @@
     <div class="footer-inner">
       <!-- 版权信息 -->
       <div class="footer-text">
-        &copy; 2017-2019
+        &copy; 2017-2024
         <a href="#"><strong>WebStack</strong></a> 
         design by <a href="http://viggoz.com" target="_blank"><strong>Viggo</strong></a>
       </div>
